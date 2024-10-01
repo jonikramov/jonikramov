@@ -5,7 +5,7 @@
 ### <p align="center">Привет, меня зовут Азиз! 👋</p>
 
 <div align="center">
-  <a href="https://t.me/azizjon_ikramov" target="_blank">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)]</a>
+  <a href=""  target="_blank">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/azizjon_ikramov)</a>
 </div>
 
 * Занимаюсь аналитикой данных 📈
