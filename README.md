@@ -1,6 +1,8 @@
+<!-- 
 <p align="center">
   <img width="400" height="250" src="https://github.com/jonikramov/jonikramov/blob/main/9dsD.gif"  alt="animated" />
 </p>
+ --> 
 
 ### <p align="center">Привет, меня зовут Азиз! 👋</p>
 
